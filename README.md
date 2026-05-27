@@ -6,8 +6,9 @@ A beautifully designed online calculator built with **HTML and CSS only** — no
 
 ## Screenshots
 
-![Calculator Preview 1](screenshot1.png)
-![Calculator Preview 2](screenshot2.png)
+![Calculator Preview 1](Screenshot%202026-05-24%20112041.png)
+
+![Calculator Preview 2](Screenshot%202026-05-24%20112055.png)
 
 ## How to Run
 
